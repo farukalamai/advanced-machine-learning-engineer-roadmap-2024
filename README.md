@@ -1,7 +1,7 @@
 # Advanced Machine Learning Engineer Roadmap
 
 # 1. Python Programming
-Python is widely considered the best programming language for machine learning. It has gained immense popularity in the field of data science and machine learning
+Python is widely considered the best programming language for machine learning. It has gained immense popularity in the field of data science and machine learning.
 
  - Python basics, Variables, Operators, Conditional Statements
  - List and Strings
@@ -12,11 +12,8 @@ Python is widely considered the best programming language for machine learning. 
  - File Handling, Exception Handling
  - Object-Oriented Programming
 
-This arrangement follows a logical progression from the fundamentals of Python, data structures, and control flow to more advanced concepts like functions, object-oriented programming, and working with files and exceptions. It's a good order for learning Python progressively.
-
 # 2. Data Analysis
-Python supports n-dimensional arrays with Numpy. For data in 2-dimensions, Pandas is the best library for analysis. You can use other tools but tools have drag-and-drop features and have limitations. Pandas can be customized as per the need as we can code depending upon the real-life problem.
-
+NumPy and Pandas are two essential Python libraries that provide tools for handling and manipulating large datasets efficiently. NumPy is primarily used for numerical computations, while Pandas is built on top of NumPy and offers high-level data structures and functions designed to simplify data analysis tasks.
 ### Numpy
 - Vectors, Matrix
 - Operations on Matrix
@@ -36,6 +33,7 @@ Python supports n-dimensional arrays with Numpy. For data in 2-dimensions, Panda
 - GroupBy and Concatenation
 
 # 3. Data Visualization
+One of the most popular data visualization libraries in Python is Matplotlib, which forms the foundation for other libraries like Seaborn and Plotly.
 ### Matplotlib
 - Graph Basics
 - Format Strings in Plots
