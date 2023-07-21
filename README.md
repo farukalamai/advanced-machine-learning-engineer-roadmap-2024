@@ -45,50 +45,46 @@ One of the most popular data visualization libraries in Python is Matplotlib, wh
 Additionally, you can learn Ploty and **Tableau** if you want.
 
 # 4. Statistics
+Statistics for machine learning come as a significant tool that studies this data for recognizing certain patterns. It helps you find unseen patterns by providing a proper direction for utilizing, analyzing, and presenting the raw data that is successfully implemented in fields like computer vision and speech analysis.
 
 ### Descriptive Statistics
-- Measure of Frequency and Central Tendency
-- Measure of Dispersion
+- Continuous and Discrete Functions
 - Probability Distribution
 - Gaussian Normal Distribution
+- Measure of Frequency and Central Tendency
+- Measure of Dispersion
 - Skewness and Kurtosis
-- Regression Analysis
-- Continuous and Discrete Functions
-- Goodness of Fit
 - Normality Test
+- Regression Analysis
+- Linear and Non-Linear Relationship with Regression
 - ANOVA
 - Homoscedasticity
-- Linear and Non-Linear Relationship with Regression
+- Goodness of Fit
 
 ### Inferential Statistics
-- t-Test
-- z-Test
+- t-Test, z-Test
 - Hypothesis Testing
 - Type I and Type II errors
-- t-Test and its types
-- One way ANOVA
-- Two way ANOVA
+- One-way and Two way ANOVA
 - Chi-Square Test
 - Implementation of continuous and categorical data
 
 # 5. Machine Learning
-The best way to master machine learning algorithms is to work with the Scikit-Learn framework. Scikit-Learn contains predefined algorithms and you can work with them just by generating the object of the class. These are the algorithm you must know including the types of Supervised and Unsupervised Machine Learning:
+To become proficient in machine learning algorithms, the most effective approach is to utilize the Scikit-Learn framework. Scikit-Learn provides a wealth of pre-defined algorithms that can be easily implemented by creating class objects. Familiarizing yourself with these algorithms is essential, especially those falling under the categories of Supervised and Unsupervised Machine Learning:
 
-- Linear Regression
-- Logistic Regression
-- Decision Tree
-- Gradient Descent
-- Random Forest
-- Ridge and Lasso Regression
-- Naive Bayes
-- Support Vector Machine
-- KMeans Clustering
+1. Linear Regression
+2. Logistic Regression
+3. Decision Tree
+4. Gradient Descent
+5. Random Forest
+6. Ridge and Lasso Regression
+7. Naive Bayes
+8. Support Vector Machine
+9. KMeans Clustering
 
-### Other Concepts and Topics for ML
-- Measuring Accuracy
-- Bias-Variance Trade-off
-- Applying Regularization
-- Elastic Net Regression
+### Other important things to know
+- Principal Component Analysis
+- Recommender systems
 - Predictive Analytics
 - Exploratory Data Analysis
 
