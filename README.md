@@ -159,3 +159,9 @@ Git and GitHub are essential tools in the field of Machine Learning (ML) for ver
 - How to grow followers on GitHub?
 - How to work with a team? Part 2 - issues, milestone and projects
 
+
+## Follow me:
+- [Linkedin](https://www.linkedin.com/in/farukalampro/)
+- [Kaggle](https://www.kaggle.com/farukalam)
+- [Twitter](https://twitter.com/farukalampro)
+
