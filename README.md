@@ -1,17 +1,18 @@
-# advanced-machine-learning-engineer-roadmap-2023
+# Advanced Machine Learning Engineer Roadmap
 
 # 1. Python Programming
-I will prefer Python Programming Language. Python is the best for starting your programming journey. Here is the roadmap of python for logic building.
+Python is widely considered the best programming language for machine learning. It has gained immense popularity in the field of data science and machine learning
 
-- Python basics, Variables, Operators, Conditional Statements
-- List and Strings
-- While Loop, Nested Loops, Loop Else
-- For Loop, Break, and Continue statements
-- Functions, Return Statement, Recursion
-- Dictionary, Tuple, Set
-- File Handling, Exception Handling
-- Object-Oriented Programming
-- Modules and Packages
+ - Python basics, Variables, Operators, Conditional Statements
+ - List and Strings
+ - Dictionary, Tuple, Set
+ - While Loop, Nested Loops, Loop Else
+ - For Loop, Break, and Continue statements
+ - Functions, Return Statement, Recursion
+ - File Handling, Exception Handling
+ - Object-Oriented Programming
+
+This arrangement follows a logical progression from the fundamentals of Python, data structures, and control flow to more advanced concepts like functions, object-oriented programming, and working with files and exceptions. It's a good order for learning Python progressively.
 
 # 2. Data Analysis
 Python supports n-dimensional arrays with Numpy. For data in 2-dimensions, Pandas is the best library for analysis. You can use other tools but tools have drag-and-drop features and have limitations. Pandas can be customized as per the need as we can code depending upon the real-life problem.
