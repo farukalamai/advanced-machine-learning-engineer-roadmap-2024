@@ -120,27 +120,18 @@ The best way to master deep learning algorithms is to work with TensorFlow or Py
  - Generative Adversarial Networks (GAN) for data generation
 
 # 8. Computer Vision
-To work on image and video analytics we can master computer vision. To work on computer vision we have to understand images.
+Computer vision is a fascinating field that involves teaching computers to understand and interpret visual information from images and videos, just like the human visual system does. 
 
-- PyTorch Tensors
+- Working with OpenCV
 - Understanding Pretrained models like AlexNet, ImageNet, ResNet.
 - Neural Networks
 - Building a perceptron
 - Building a single layer neural network
 - Building a deep neural network
 - Recurrent neural network for sequential data analysis
-
-### Convolutional Neural Networks
-
-- Understanding the ConvNet topology
-- Convolution layers
-- Pooling layers
 - Image Content Analysis
 - Operating on images using OpenCV-Python
 - Detecting edges
-- Histogram equalization
-- Detecting corners
-- Detecting SIFT feature points
 
 # 9. MLOps
 
@@ -157,7 +148,10 @@ We will focus on AWS - Amazon Web Services first
 - Amazon SageMaker - Building and deploying models
 - Working with Deep Learning on AWS
 
-# 15 | Git & GitHub
+# 10. Git & GitHub
+Git and GitHub are essential tools in the field of Machine Learning (ML) for version control, collaboration, and sharing ML projects with the community.
+
+Sure! Here's the rearranged list:
 
 - Understanding Git
 - Commands and How to commit your first code?
