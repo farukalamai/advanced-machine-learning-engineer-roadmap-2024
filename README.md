@@ -15,33 +15,34 @@ Python is widely considered the best programming language for machine learning. 
 # 2. Data Analysis
 NumPy and Pandas are two essential Python libraries that provide tools for handling and manipulating large datasets efficiently. NumPy is primarily used for numerical computations, while Pandas is built on top of NumPy and offers high-level data structures and functions designed to simplify data analysis tasks.
 ### Numpy
-- Vectors, Matrix
-- Operations on Matrix
-- Mean, Variance, and Standard Deviation
-- Reshaping Arrays
-- Transpose and Determinant of Matrix
-- Diagonal Operations, Trace
-- Add, Subtract, Multiply, Dot, and Cross Product.
+ - Vectors, Operations on Matrix
+ - Reshaping Arrays
+ - Diagonal Operations, Trace
+ - Mean, Variance, and Standard Deviation
+ - Add, Subtract, Multiply, Dot, and Cross Product.
 
 ### Pandas
+- Different ways to create DataFrame
 - Series and DataFrames
 - Slicing, Rows, and Columns
-- Operations on DataFrame
-- Different ways to create DataFrame
 - Read, Write Operations with CSV files
-- Handling Missing values, replace values, and Regular Expression
+- Handling Missing values
 - GroupBy and Concatenation
 
 # 3. Data Visualization
 One of the most popular data visualization libraries in Python is Matplotlib, which forms the foundation for other libraries like Seaborn and Plotly.
 ### Matplotlib
-- Graph Basics
+- Bar Chart, Pie Chart, Histogram, Scatter Plot
 - Format Strings in Plots
 - Label Parameters, Legend
-- Bar Chart, Pie Chart, Histogram, Scatter Plot
 
 ### Seaborn
-### Ploty
+- Wide Range of Plot Types
+- Statistical Enhancements
+- Categorical Data Visualization
+- Customization and Theming
+
+Additionally, you can learn Ploty and **Tableau** if you want.
 
 # 4. Statistics
 
