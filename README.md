@@ -89,21 +89,29 @@ To become proficient in machine learning algorithms, the most effective approach
 - Exploratory Data Analysis
 
 # 6. Natural Language Processing
-If you are interested in working with Text, you should do some of the work an NLP Engineer do and understand the working of Language models.
+Natural Language Processing (NLP) is of paramount importance for Machine Learning (ML) engineers for several reasons. NLP enables ML engineers to work with human language data, which is prevalent in various applications and industries.
 
-- Sentiment analysis
-- POS Tagging, Parsing,
+- Handling Unstructured Text DataSentiment analysis
+- Text Classification and Sentiment Analysis
+- Named Entity Recognition (NER)
 - Text preprocessing
-- Stemming and Lemmatization
-- Sentiment classification using Naive Bayes
-- TF-IDF, N-gram,
+- Text Generation and Language Translation
+- Topic Modeling
 - Machine Translation, BLEU Score
-- Text Generation, Summarization, ROUGE Score
+- Summarization, ROUGE Score
 - Language Modeling, Perplexity
 - Building a text classifier
-- Identifying the gender
+- Speech Recognition
 
 # 7. Deep Learning
+The best way to master deep learning algorithms is to work with TensorFlow or PyTorch.
+ - Neural networks basics
+ - Activation functions
+ - Backpropagation algorithm
+ - Popular deep learning frameworks: TensorFlow or PyTorch
+ - Convolutional Neural Networks (CNN) for computer vision
+ - Recurrent Neural Networks (RNN) for sequential data
+ - Generative Adversarial Networks (GAN) for data generation
 
 # 8. Computer Vision
 To work on image and video analytics we can master computer vision. To work on computer vision we have to understand images.
