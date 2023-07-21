@@ -126,7 +126,7 @@ Computer vision is a fascinating field that involves teaching computers to under
 - Understanding Pretrained models like AlexNet, ImageNet, ResNet.
 - Neural Networks
 - Building a perceptron
-- Building a single layer neural network
+- Building a single-layer neural network
 - Building a deep neural network
 - Recurrent neural network for sequential data analysis
 - Image Content Analysis
@@ -134,24 +134,19 @@ Computer vision is a fascinating field that involves teaching computers to under
 - Detecting edges
 
 # 9. MLOps
+You can master any one of the cloud services providers from AWS, GCP, and Azure. You can switch easily once you understand one of them. We will focus on AWS - Amazon Web Services first
 
-You can master any one of the cloud services provider from AWS, GCP and Azure. You can switch easily once you understand one of them.
-
-We will focus on AWS - Amazon Web Services first
-
-- Deploy ML models using Flask
-- Amazon Lex - Natural Language Understanding
-- AWS Polly - Voice Analysis
-- Amazon Transcribe - Speech to Text
-- Amazon Textract - Extract Text
-- Amazon Rekognition - Image Applications
-- Amazon SageMaker - Building and deploying models
 - Working with Deep Learning on AWS
+- Amazon Rekognition - Image Applications
+- Amazon Textract - Extract Text
+- Amazon Transcribe - Speech to Text
+- AWS Polly - Voice Analysis
+- Amazon Lex - Natural Language Understanding
+- Amazon SageMaker - Building and deploying models
+- Deploy ML models using Flask
 
 # 10. Git & GitHub
 Git and GitHub are essential tools in the field of Machine Learning (ML) for version control, collaboration, and sharing ML projects with the community.
-
-Sure! Here's the rearranged list:
 
 - Understanding Git
 - Commands and How to commit your first code?
