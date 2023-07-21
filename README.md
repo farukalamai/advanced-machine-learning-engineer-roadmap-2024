@@ -1,6 +1,6 @@
 # advanced-machine-learning-engineer-roadmap-2023
 
-# 1 Python Programming
+# 1. Python Programming
 I will prefer Python Programming Language. Python is the best for starting your programming journey. Here is the roadmap of python for logic building.
 
 - Python basics, Variables, Operators, Conditional Statements
@@ -13,4 +13,4 @@ I will prefer Python Programming Language. Python is the best for starting your 
 - Object-Oriented Programming
 - Modules and Packages
 
-# 2 Data Analysis
+# 2. Data Analysis
