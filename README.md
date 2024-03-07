@@ -161,7 +161,7 @@ Git and GitHub are essential tools in the field of Machine Learning (ML) for ver
 
 
 ## Follow me:
-- [Linkedin](https://www.linkedin.com/in/farukalampro/)
+- [Linkedin](https://www.linkedin.com/in/farukalamai/)
 - [Kaggle](https://www.kaggle.com/farukalam)
-- [Twitter](https://twitter.com/farukalampro)
+- [Twitter](https://twitter.com/farukalamai)
 
