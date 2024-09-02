@@ -160,7 +160,8 @@ Git and GitHub are essential tools in the field of Machine Learning (ML) for ver
 - How to work with a team? Part 2 - issues, milestone and projects
 
 
-# Want To Support My Work?
+## Follow Me
 
-<a href="https://buymeacoffee.com/farukalamai" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+[Follow me on LinkedIn](https://www.linkedin.com/in/farukalamai/)
+
 
